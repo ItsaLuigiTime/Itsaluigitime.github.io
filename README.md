@@ -1,2 +1,2 @@
 # Itsaluigitime.github.io
-yo yo yo, this is a readme, i'm learning stuff, hell yeah buoy
+Hello cyberspace! My name is Levi Shenk, and my email address is lshenk@my.waketech.edu. This Github account is mainly for school at the moment, though I may continue to use it afterwards for ongoing projects, and all that work will be held here in this repository.
