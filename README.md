@@ -11,7 +11,7 @@ Hello cyberspace! My name is Levi Shenk, and my email address is ldshenk@my.wake
 * Dungeons and Dragons
 	* See Critical Role
 * My two _precious_ dogs
-	* A Chihuahua/Poodle and a Chichuahua/Dauchsund
+	* A Chihuahua/Poodle named Mayzie and a Chichuahua/Dauchsund named Finn
 * 3D Printing
 	* I bought one to print minis and terrain for D&D, and it just kinda progressed from there.
 
