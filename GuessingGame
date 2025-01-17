@@ -1,5 +1,7 @@
 ```mermaid
+
 flowchart TD
+
     A[Select Random Integer between 1 and 10]
     A--> B[Player inputs Guess]
     B--> C[Check that Guess is an integer between 1 and 10]
@@ -13,4 +15,5 @@ flowchart TD
     H-->B
     F-- Yes -->A
     F-- No -->I[Show Message 'Thanks for playing! Goodbye!]
+
 ```
