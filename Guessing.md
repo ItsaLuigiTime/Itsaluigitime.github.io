@@ -1,3 +1,5 @@
+Thisflowchart shows the basic sequence of events needed for a simple guessing game, in whicha player tries to guess a random target number between 1 and 10.
+
 ```mermaid
 flowchart TD
     A[Select Random Integer between 1 and 10]
