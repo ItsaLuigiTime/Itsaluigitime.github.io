@@ -5,7 +5,7 @@ function fetchGradeData() {
     // Create a new request for HTTP data
     let xhr = new XMLHttpRequest();
     // This is the address on the machine we're asking for data
-    let apiRoute = "http://localhost:3000/api/grades";
+    let apiRoute = "http://localhost:3000/api/gradebook";
     // When the request changes status, we run this anonymous function
     xhr.onreadystatechange = function(){
         let results;
