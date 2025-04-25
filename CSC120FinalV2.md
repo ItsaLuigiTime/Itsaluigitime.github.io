@@ -11,5 +11,8 @@ flowchart TD
     F -- If P1>P2 OR if P2 = 2 AND P1 = 0 -->G[P1 Wins]
     F -- if P1=P2 -->H[Tie]
     F -- Else -->I[P2 wins]
+    G --> J[DisplayResults]
+    H --> J
+    I --> J
 
 ```
